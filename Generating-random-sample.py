@@ -10,4 +10,5 @@ sample1 = np.random.choice(students, 10, replace=True)
 sample_props = []
 for _ in range(10000):
     sample = np.random.choice(students, 5, replace=True)
-    sample_props.append(sample.mean())
+    sample_proppp.append(sample.mean())
+sample_props = np.array(sample_props)
