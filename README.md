@@ -10,8 +10,6 @@ Provides a loop for getting sample distribution.*
 ### Files used
 * none
 
-### Credits :+1:
+### Credits :+2
 * [Udacity](WWW.udacity.com)
-* [Github](www.github.com)
-* [stackoverflow](www.stackoverflow)
-* [Google](www.google.com)
+
